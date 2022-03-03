@@ -1,4 +1,4 @@
-https://github.com/Altexsoft-Georgia-Boot-Camp/react-feelforyou
+<a href='https://github.com/Altexsoft-Georgia-Boot-Camp/react-feelforyou'>https://github.com/Altexsoft-Georgia-Boot-Camp/react-feelforyou</a>
 
 added first line
 added second line
