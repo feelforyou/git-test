@@ -6,4 +6,4 @@ added line 5
 some change here
 added line 6
 added line 7 in second branch
-
+added another line from remote in second branch
